@@ -11,7 +11,7 @@ Welcome to my GitHub. I focus on building systems, tools, and workflows that com
 [![Groq API](https://img.shields.io/badge/Groq%20API-Developer-green)]()
 
 ### Swift Apps Collection
-[![Swift Apps Collection](https://img.shields.io/badge/Swift%20Apps%20Collection-Community-orange)]()
+[![Swift Apps Collection](https://img.shields.io/badge/Swift%20Apps%20Collection-Community-orange)](discord.gg/gCeTzyepFg)
 
 ## What I Work On
 - Building a perfect and cheap homelab
