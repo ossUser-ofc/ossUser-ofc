@@ -1,4 +1,5 @@
-[![GitHub followers](https://img.shields.io/github/followers/ossUser-ofc?label=Follow&style=social)](https://github.com/your-username)
+[![GitHub followers](https://img.shields.io/github/followers/ossUser-ofc?label=Follow&style=social)](https://github.com/ossUser-ofc)
+
 
 # About Me
 
