@@ -7,7 +7,9 @@ Welcome to my GitHub. I focus on building systems, tools, and workflows that com
 ## Projects
 
 ### LearnArc
-[![LearnArc](https://img.shields.io/badge/LearnArc-Project-blue)]()
+[![LearnArc](https://img.shields.io/badge/LearnArc-Project-blue)]() 
+
+Learnarc is a powerful tool allowing users to keep ahead of there homework, revision and notes. (Quizes coming soon!)
 
 ### Groq API
 [![Groq API](https://img.shields.io/badge/Groq%20API-Developer-green)]()
