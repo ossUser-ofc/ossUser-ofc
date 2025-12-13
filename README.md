@@ -6,16 +6,13 @@ Welcome to my GitHub. I focus on building systems, tools, and workflows that com
 
 ## Projects
 
-### LearnArc
-[![LearnArc](https://img.shields.io/badge/LearnArc-Project-blue)]() 
+### LearnArc [![LearnArc](https://img.shields.io/badge/LearnArc-Project-blue)]() 
 
 Learnarc is a powerful tool allowing users to keep ahead of there homework, revision and notes. (Quizes coming soon!)
 
-### Groq API
-[![Groq API](https://img.shields.io/badge/Groq%20API-Developer-green)]()
+### Groq API [![Groq API](https://img.shields.io/badge/Groq%20API-Developer-green)]()
 
-### Swift Apps Collection
-[![Swift Apps Collection](https://img.shields.io/badge/Swift%20Apps%20Collection-Community-orange)](discord.gg/gCeTzyepFg)
+### Swift Apps Collection [![Swift Apps Collection](https://img.shields.io/badge/Swift%20Apps%20Collection-Community-orange)](discord.gg/gCeTzyepFg)
 
 ## What I Work On
 - Building a perfect and cheap homelab
