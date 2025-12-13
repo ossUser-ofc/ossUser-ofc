@@ -1,3 +1,5 @@
+[![GitHub followers](https://img.shields.io/github/followers/ossUser-ofc?label=Follow&style=social)](https://github.com/your-username)
+
 # About Me
 
 Welcome to my GitHub. I focus on building systems, tools, and workflows that combine practical engineering with strategic use of AI.
