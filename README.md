@@ -15,6 +15,9 @@ Learnarc is a powerful tool allowing users to keep ahead of there homework, revi
 
 ### Swift Apps Collection [![Swift Apps Collection](https://img.shields.io/badge/Swift%20Apps%20Collection-Community-orange)](discord.gg/gCeTzyepFg)
 
+### jetkvm-os
+This is a simple porteus kiosk that boots into JetKVM Website to connect to anny device remotely. 
+
 ## What I Work On
 - Building a perfect and cheap homelab
 - Vibe Codding useful sites
