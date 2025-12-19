@@ -14,6 +14,7 @@ Learnarc is a powerful tool allowing users to keep ahead of there homework, revi
 ### Groq API [![Groq API](https://img.shields.io/badge/Groq%20API-Developer-green)]()
 
 ### Swift Apps Collection [![Swift Apps Collection](https://img.shields.io/badge/Swift%20Apps%20Collection-Community-orange)](discord.gg/gCeTzyepFg)
+The Swift Apps Collection is a collection of apps made by ossUser-ofc, cubedisk, randomguy-swift using the assistance of AI. This includes broswers, HTML runners, media players and more. 
 
 ### jetkvm-os
 This is a simple porteus kiosk that boots into JetKVM Website to connect to anny device remotely. 
